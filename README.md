@@ -1,14 +1,4 @@
-# CHATBOT
-
-## Students Details
-
-Name: Mittal .V. Bagmare
-
-Roll no. ET06
-
-Branch: Electronic & Telecommunication
-
-semester: 5th /3rd year
+# NLP-BT240006ET-MITTAL .V. BAGMARE
 
 
 Current Affairs Chatbot is a simple Python-based chatbot that provides information about important current-affairs topics such as ISRO, Chandrayaan-3, Artificial Intelligence, education, sports, the Indian budget, and climate change.
